@@ -1,2 +1,2 @@
 # livro-receitas
-exericio bootcamp tqs
+exericio bootcamp tqi na dio
